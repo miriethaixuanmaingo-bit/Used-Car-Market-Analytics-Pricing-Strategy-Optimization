@@ -19,7 +19,7 @@ The goal of this project is to transform a high-volume dataset of messy vehicle 
 Because the production dataset contains high-volume web-scraped listings exceeding GitHub's native file-size storage parameters, the raw data environment is securely hosted via cloud storage. 
 
 * **📥 Raw Dataset Link**: [Download Full Massive Used-Car Dataset via Google Drive](https://docs.google.com/spreadsheets/d/1c_spxMVDCOumykftsRl2h7vFJk3DoA-2/edit?usp=sharing&ouid=113780252770854454228&rtpof=true&sd=true)
-* **Dataset Format**: Microsoft Excel (`.xlsx`) / CSV (`.csv`)
+* **Dataset Format**: Microsoft Excel (`.xlsx`)
 * **Data Context**: Real-world European automotive e-commerce marketplace listings, tracking key market indicators including pricing currency benchmarks, manufacturing age cycles, granular vehicle mileage parameters, and transmission mechanical structures.
 
 ---
